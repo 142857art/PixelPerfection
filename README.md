@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PROJECT_NAME
 
 PROJECT_NAME is a non-commercial project that uses Perfect Pixel to refine pixel-style images into cleaner, grid-aligned pixel art.
@@ -46,3 +47,6 @@ pip install "perfect-pixel[opencv]"
 
 This project includes third-party code or ideas from Perfect Pixel. See [NOTICE.md](NOTICE.md).
 
+=======
+# PixelPerfection
+>>>>>>> 994fb52e2cab75d0532195b8968b6def53bcb3ee
